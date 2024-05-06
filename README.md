@@ -57,3 +57,19 @@ Atliq specializes in hardware sales across physical stores and online platforms.
 
 # Project Outcome
 Based on the dashboard, we navigate our business landscape with clarity and precision, making decisions rooted in data-driven insights. This not only enhances transparency but also cultivates an environment of informed decision-making, driving continuous improvement and success.
+
+
+# Few Snapshots of Power BI Dashboard
+![Finance View](https://github.com/singhsaurabh88/Business_Insights_360-Atliq-/assets/109754949/9c9e080d-eb49-4ca8-be16-3e0702ca2694)
+
+![Sales View](https://github.com/singhsaurabh88/Business_Insights_360-Atliq-/assets/109754949/f01572b9-61cc-4277-b548-94dd494f16a6)
+
+![Marketing View](https://github.com/singhsaurabh88/Business_Insights_360-Atliq-/assets/109754949/85dca753-73a3-4218-be61-3c419401abd1)
+
+![Supply Chain View](https://github.com/singhsaurabh88/Business_Insights_360-Atliq-/assets/109754949/e5aae7ce-8b42-4eb3-a045-01ac0049697a)
+
+![Executive View](https://github.com/singhsaurabh88/Business_Insights_360-Atliq-/assets/109754949/aec61888-e32f-43d8-b87a-d0404b4e3594)
+
+
+
+
