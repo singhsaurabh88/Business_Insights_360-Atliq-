@@ -26,19 +26,6 @@ Atliq specializes in hardware sales across physical stores and online platforms.
 4. **Supply Chain View** : Provided insights into inventory management and product availability percentages.
 5. **Executive View** : Quick insights into divisional performance, key KPIs, market share, and competitor comparisons.
 
-# Key Technical Learnings:
-
-- **Data Loading and Transformation**: Loaded MySQL data into Power BI, transformed data using Power Query, and created calculated columns.
-
-* **Data Modeling**: Utilized DAX for measures, implemented various relationships, and understood OLTP vs. OLAP.
-
-+ **Dashboard Design**: Applied effective design principles for visually appealing dashboards.
-
-* **User Feedback and Updates**: Incorporated stakeholder feedback, implemented dynamic slicers, and toggled between visuals.
-
-- **Deployment and Automation**: Published reports, created workspaces, and set up automatic data refresh using personal/organizational gateways and Microsoft SharePoint.
-
-
 # Step by Step process for creating Dashboard
 
 - **Data Preparation and Integration** :Connected data gdb056.sql and gdb041.sql files to power bi from SQL database where the data is stored. Utilize Power Query Editor to refine and reshape the data, ensuring its readiness for analysis.
@@ -52,6 +39,21 @@ Atliq specializes in hardware sales across physical stores and online platforms.
 - **Customization and Branding** :Tailor the aesthetics of the dashboard to align with organizational branding and style preferences. Apply themes and formatting options to ensure a cohesive and polished presentation.
 
 - **Optimization for Performance**:Streamline the dashboard by optimizing visual elements and minimizing data volume. Employ optimization techniques such as aggregations and query folding to enhance performance.
+
+
+# Key Technical Learnings:
+
+- **Data Loading and Transformation**: Loaded MySQL data into Power BI, transformed data using Power Query, and created calculated columns.
+
+* **Data Modeling**: Utilized DAX for measures, implemented various relationships, and understood OLTP vs. OLAP.
+
++ **Dashboard Design**: Applied effective design principles for visually appealing dashboards.
+
+* **User Feedback and Updates**: Incorporated stakeholder feedback, implemented dynamic slicers, and toggled between visuals.
+
+- **Deployment and Automation**: Published reports, created workspaces, and set up automatic data refresh using personal/organizational gateways and Microsoft SharePoint.
+
+
 
 # Project Outcome
 Based on the dashboard, we navigate our business landscape with clarity and precision, making decisions rooted in data-driven insights. This not only enhances transparency but also cultivates an environment of informed decision-making, driving continuous improvement and success.
