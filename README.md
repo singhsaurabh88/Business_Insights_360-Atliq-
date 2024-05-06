@@ -9,9 +9,13 @@ Atliq specializes in hardware sales across physical stores and online platforms.
 
 # Technologies Used:
 📌SQL: Loaded data from SQL dump into MySQL and Power BI.
+
 📌PowerBi Desktop: Used for visualization, modeling, and real-time analytics.
+
 📌Excel: Read the data and validate the results from dashboard.
+
 📌DAX language: Applied for query optimization and performance monitoring
+
 📌DAX studio (for optimizing the report)
 
 # Key Reports and Views:
