@@ -2,7 +2,7 @@
 Created a Power BI Dashboard consisting of Multiple Views
 
 # Atliq Data Analytics Project Summary
-LINKS:
++ Live Dashboard: [BI 360](https://app.powerbi.com/view?r=eyJrIjoiZTRhNGI0OTItZDdiOC00NjliLWFkYTQtYzg4Yzg4MzI3NTdmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 # Problem Statement:
 Atliq specializes in hardware sales across physical stores and online platforms. AltiQ hardware is a company which has grown vastly in the recent years, and opened business all over the globe. Our three-tiered sales channels (retailers, direct sales, and distributors). Recently the company has faced a unforeseen loss by opening store in America based on the surveys, intuition and some excel analysis and also the company’s competitors has handful of analytics team to perform analysis and make data driven decision. So, the AltiQ hardware has no other option other than building their analytics team for data driven insights and decisions in the future to survive better in the industry.
