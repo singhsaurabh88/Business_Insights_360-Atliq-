@@ -1,5 +1,5 @@
 # Business_Insights_360 Power BI Dashboard
-Created a Power BI Dashboard consisting of Multiple Views
+Power BI Dashboard consisting of Multiple Views
 
 # Atliq Data Analytics Project Summary
 + Live Dashboard: [BI 360](https://app.powerbi.com/view?r=eyJrIjoiZTRhNGI0OTItZDdiOC00NjliLWFkYTQtYzg4Yzg4MzI3NTdmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
