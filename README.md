@@ -1,4 +1,4 @@
-# Business_Insights_360
+# Business_Insights_360 Power BI Dashboard
 Created a Power BI Dashboard consisting of Multiple Views
 
 # Atliq Data Analytics Project Summary
